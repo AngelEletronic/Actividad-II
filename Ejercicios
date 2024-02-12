@@ -1,0 +1,16 @@
+Ejercicio 1
+#Iniciar un Proyecto
+>git init
+
+Ejercicio 2
+#agregar un archivo
+>git add index.html
+
+Ejercicio 3
+#crear el primer commit
+>git commit -m "Iniciando el Proyecto"
+
+Ejercicio 4
+#Pushear el proyecto a Github
+**Saltando la configuracion
+>git push main
